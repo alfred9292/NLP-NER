@@ -16,7 +16,8 @@ Libraries needed to run the code:
 
 Python Version: 3.3 or higher 
 
-Platform: Pycharm 
+
+Development Environment: Pycharm 
 
 
 
